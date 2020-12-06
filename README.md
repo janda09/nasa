@@ -5,3 +5,5 @@ wget https://raw.githubusercontent.com/janda09/nasa/main/nasa.zip && unzip nasa.
 
 ./n (ip target) (enter)
 <br> Ex : ./n 128.199 (enter)
+# Cari ip target
+Di sini https://udger.com/resources/datacenter-list
